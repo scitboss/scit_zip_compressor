@@ -1,6 +1,6 @@
 <!-- ============================================================ -->
 <!--           SCIT-BOSS ZIP COMPRESSOR - MEGA EDITION            -->
-<!--                  ANIMATED README.md                          -->
+<!--                                                               -->
 <!-- ============================================================ -->
 
 <div align="center">
@@ -37,9 +37,9 @@
 
 <div align="center">
 
-## 🎬 **DEMO PREVIEW**
+## 🎬 **PREVIEW**
 
-<img src="https://media.giphy.com/media/xTiTnHXbRoaZ1B1Mo8/giphy.gif" width="600" alt="Demo Animation"/>
+<img src="https://i.postimg.cc/dVhdRJtY/2026-09-14-231215.png" width="600" alt="Demo Animation"/>
 
 ### ⚡ *Watch your BIG ZIP files shrink to ANY size you want!*
 
